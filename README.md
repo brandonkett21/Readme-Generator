@@ -1,6 +1,6 @@
 # Readme-Generator
 
-I have created a readme-generator to help developers create quality readme's based on the project they are currently working on.
+I have created a readme-generator to help developers create quality readme's, based on the project they are currently working on.
 
 I used NPM, Javascript, and JSon to accomplish this.
 
