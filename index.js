@@ -29,7 +29,7 @@ const questions = [
     name: "Email",
   },
   {
-    type: "input",
+    type: "Input",
     message: "What is the usage?",
     name: "Usage",
   },
