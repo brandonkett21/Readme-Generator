@@ -8,3 +8,5 @@ I used screencastify to record the video from chrome extensions.
 
 The projects works by allowing developers to answer a set of questions about their project and then returns that info into a readme
 so others who are reading the Readme file have a better understanding of the coding and project that is being presented.
+
+Also used util to help with functioning.
